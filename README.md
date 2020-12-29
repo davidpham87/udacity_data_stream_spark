@@ -12,6 +12,14 @@ make kafka-cluster
 The command will get into the clojure directory and launch the clojure-cli
 and download all the deps and launch a kafka cluster with the "sf_crime" topic.
 
+## Data
+
+Unzip the data with
+
+``` bash
+tar -xjvf police-department-calls-for-service.tar.bz2
+```
+
 ## Python env
 
 ``` bash
