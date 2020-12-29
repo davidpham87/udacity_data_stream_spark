@@ -1,0 +1,8 @@
+{:deps  {com.troy-west/thimble-all           {:mvn/version "0.1.11"}
+         ;; org.slf4j/slf4j-api {:mvn/version "1.7.30"}
+         ;; org.slf4j/slf4j-simple {:mvn/version "1.7.30"}
+         camel-snake-kebab/camel-snake-kebab {:mvn/version "0.4.1"}
+         metosin/jsonista                    {:mvn/version "LATEST"}
+         integrant/integrant                 {:mvn/version "0.8.0"}
+         integrant/repl                      {:mvn/version "0.3.2"}}
+ :paths ["src"]}

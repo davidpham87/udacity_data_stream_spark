@@ -1,0 +1,2 @@
+;; clojure installs this dependency because I was missing the dependency
+{:deps {org.xerial.snappy/snappy-java {:mvn/version "1.1.2.6"}}}

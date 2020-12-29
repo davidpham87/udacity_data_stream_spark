@@ -1,0 +1,6 @@
+*.clj-kondo*
+*.cpcache*
+*.lsp*
+.mypy_cache
+__pycache__
+spark-warehouse/

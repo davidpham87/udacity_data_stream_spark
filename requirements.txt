@@ -1,0 +1,4 @@
+findspark
+pyspark==2.4.3
+python-dateutil
+pathlib
