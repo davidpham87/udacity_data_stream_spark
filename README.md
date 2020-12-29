@@ -64,7 +64,7 @@ make data-stream #
 
 ## Spark UI
 
-![spark-ui](spark_ui.png)
+![spark-ui](images/spark_ui.png)
 
 # Answers to questions:
 
